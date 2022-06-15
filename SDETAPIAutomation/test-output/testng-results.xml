@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8218" started-at="2022-06-15T16:22:41Z" finished-at="2022-06-15T16:22:50Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8218" started-at="2022-06-15T16:22:41Z" finished-at="2022-06-15T16:22:50Z">
+      <class name="restMain.RestMainClass">
+        <test-method status="PASS" signature="deleteMethod()[pri:0, instance:restMain.RestMainClass@28864e92]" name="deleteMethod" duration-ms="5628" started-at="2022-06-15T21:52:41Z" finished-at="2022-06-15T21:52:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteMethod -->
+        <test-method status="PASS" signature="getMethod()[pri:0, instance:restMain.RestMainClass@28864e92]" name="getMethod" duration-ms="575" started-at="2022-06-15T21:52:47Z" finished-at="2022-06-15T21:52:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getMethod -->
+        <test-method status="PASS" signature="putMethod()[pri:0, instance:restMain.RestMainClass@28864e92]" name="putMethod" duration-ms="1277" started-at="2022-06-15T21:52:48Z" finished-at="2022-06-15T21:52:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putMethod -->
+        <test-method status="PASS" signature="postMethod()[pri:1, instance:restMain.RestMainClass@28864e92]" name="postMethod" duration-ms="664" started-at="2022-06-15T21:52:49Z" finished-at="2022-06-15T21:52:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postMethod -->
+      </class> <!-- restMain.RestMainClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
